@@ -1,4 +1,4 @@
 # git-demo
 this is my first git project
 <br>
-Author-Ritik Rai
+Author-Ritik Rai  (First Project)
